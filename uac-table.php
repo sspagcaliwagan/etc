@@ -8,7 +8,7 @@
 
 	<body>
 		<div class="container">
-			<h2 class="text-center">List of UACS for the Departments of the Government of the Philippines</h2>
+			<h1 class="text-center">List of Unified Accounts Code Structure (UACS) for the Departments of the Government of the Philippines</h1>
 			<table class="table table-bordered">
 				<thead>
 					<tr>
